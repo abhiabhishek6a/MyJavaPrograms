@@ -24,7 +24,7 @@ class VowelConsonant
 				default :
 				{
 					System.out.println("Consonant at index [" + i +"]");
-					break;
+					break;r
 				}
 			}
 		}
